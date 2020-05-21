@@ -1,0 +1,3 @@
+launch {{program}}
+run {{program}}
+execute {{program}}
